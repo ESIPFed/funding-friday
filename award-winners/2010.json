@@ -1,0 +1,58 @@
+{
+    "Weiguo Han": {
+        "funding-cycle": 2010,
+        "title": "Sharing and Analyzing Dem Datasets through DEM Explorer",
+        "desc": "Digital elevation model (DEM) datasets including SRTM, ASTER GDEM, GTOPO30 and SRTM30_Plus are freely accessible and downloadable in separate files from many federal and academic organizations. But users need to process these datasets by themselves to obtain data for the area of interest (AOI) which dose not exactly match the spatial extent of original DEM files.  DEM Explore will offer an easy and direct way to customize, visualize, download and analyze DEM datasets through a responsive and interactive web-based interface (http://ws.csiss.gmu.edu/DEMExplorer). It will provide not only valuable services such as mosaicking, subsetting, re-projecting, and reformatting for these DEM data, but also an interoperable and timely mean to get the interest DEM data by sending standard WCS request to WCS4DEM (http://geobrain.laits.gmu.edu/cgi-bin/gbwcs-dem ). With the intent of improving user's knowledge from DEM data, common terrain analysis functions will be integrated to learn terrain characteristics, and hydrological analysis web services implemented in the GeoBrain project will be invoked to obtain hydrologic patterns. In addition, Web services in relation to DEM analysis from other sources will be called to extend system capabilities. Utilizing new Web 2.0 technologies and geospatial data and service standards, DEM Explorer will be a comprehensive one-stop portal for DEM data delivery, visualization and analysis.",
+        "image": "",
+        "co-pi": [],
+        "docs": ["artifacts/2010/DEMExplorer-SOW-ff-2010.pdf"]
+    },
+    "Rebecca Reid": {
+        "funding-cycle": 2010,
+        "title": "Continuing the Connections",
+        "desc": "This project aims to support educators by fostering collaboration and resource sharing among teachers who have attended ESIP conferences. It proposes creating a website to share lesson ideas and continue conversations initiated at the conferences. Teachers will receive stipends for developing lesson plans that utilize ESIP tools, data, and resources, as well as for implementing these lessons with students and sharing their experiences on the website. This initiative seeks to maintain connections, encourage innovative teaching, and expand the use of ESIP resources in classrooms.",
+        "image": "",
+        "co-pi": ["Margaret Mooney"],
+        "docs": ["artifacts/2010/Continuing-the-Connects-SOW-ff-2010.pdf"]
+    },
+    "Rahul Ramachandran": {
+        "funding-cycle": 2010,
+        "title": "Can you build an iPhone app without needing a developer?",
+        "desc": "This study aims to evaluate tools and services that enable non-developers to convert web page content into iPhone applications. The project will assess these tools based on functionality and cost, and create ESIP iPhone app prototypes using ESIP web page content. Deliverables include an ESIP iPhone app prototype, a report with recommendations on the best tool for creating iPhone apps, and a short tutorial to guide ESIP members in using the selected tool.",
+        "image": "",
+        "co-pi": [],
+        "docs": ["artifacts/2010/IPhone-app-SOW-ff-2010.pdf"]
+    },
+    "Marlene Taylor": {
+        "funding-cycle": 2010,
+        "title": "Beaver Creek Project",
+        "desc": "The Beaver Creek Project is a start-up blog featuring three articles with multimedia components that explore the rehabilitation of Beaver Creek in north Knox County, Tennessee. The first article highlights the creek's degradation due to urbanization in the 1990s and the grassroots efforts to restore it. The second article showcases the collaborative achievements of a diverse task force, including stream bank restoration, riparian plantings, and infrastructure repairs. The third article introduces a green infrastructure plan developed by University of Tennessee researchers, emphasizing sustainable community development to improve quality of life and preserve natural amenities in the Beaver Creek watershed.",
+        "image": "",
+        "co-pi": [],
+        "docs": ["artifacts/2010/Beaver-Creek-Project-ff-2010.pdf"]
+    },
+    "Matthew Rogan,": {
+        "funding-cycle": 2010,
+        "title": "Campbell-Stokes Sunshine Recorder Charts Project",
+        "desc": "The Campbell-Stokes Sunshine Recorder Charts Project aims to digitize and analyze over 40,000 historical sunshine recorder charts dating back to 1885 from the Blue Hill Observatory in Milton, MA. The project involves scanning the charts into a computer database and using image analysis software to measure burn sizes, providing hourly sunlight intensity data. The resulting dataset will be made readily available, with analysis methods including measuring burn radii or calculating burn-to-chart ratios for sunlight intensity percentages. This initiative preserves historical data while enabling new insights into solar intensity trends.",
+        "image": "",
+        "co-pi": [],
+        "docs": ["artifacts/2010/Campbell-Stokes-Sunshine-Recorder-Charts-Project-ff-2010.pdf"]
+    },
+    "Annie Byrnes": {
+        "funding-cycle": 2010,
+        "title": "State Tectonics Project",
+        "desc": "My project is to create a website, www.statetectonics.com, to provide easy access to layman’s information about plate tectonic activity across the country for citizens to get a better understanding of the history, science, and potential for earthquakes and volcanic activity in their area. The home page of the site will have a large map of the United States from which a visitor can click to their specific region of the map to get more information. The site will also have a background page which gives a larger-scale view of how the U.S. fits into world tectonics, including references to recent earthquakes, such as the one in Haiti, and how that affects the North American plate. The site will be interactive, using Adobe Flash to make the map clickable, and will also make use of audio clips and pictures. The overall goal is not to compete with usgs.gov, but to make information that is available on usgs.gov more accessible and streamlined, so that members of the public with an interest in US tectonics can easily and quickly find some baseline information on their area.",
+        "image": "",
+        "co-pi": [],
+        "docs": ["artifacts/2010/State-Tectonics-Project-ff-2010.pdf"]
+    },
+    "Qunying Huang": {
+        "funding-cycle": 2010,
+        "title": "Spatial Cloud Project",
+        "desc": "We propose to develop geoprocessing services and standalone client to utilize the cloud computing and WPS services to support Earth and geography science communities funded by the Federation of Earth Science Information Partnership (ESIP). Intensive computing is highly demanded for supporting geospatial processing. However, the bridging between generic computing and geospatial processing is a critical issue for Earth sciences. Through the development of kernel GIS functionalities with standards, e.g. buffer, overlay, intersect, we can compose any sort of functionalities to process any intended applications across different domains. OGC Web Processing Service (WPS) is such a standard way to offer GIS functionality to users within network and has been an important element of geospatial processing service cloud. This research will develop several GIS spatial analysis functionalities based on WPS, and deploy those WPS processes with CISC cloud computing infrastructure as a cloud service which can be accessed online and compose geospatial functionalities by Earth Scientists. The study case, analyzing the impact of dust storm on public health in Arizona and New Mexico, is used to demonstrate the advantages of utilizing cloud computing and WPS to support geospatial analysis on line.",
+        "image": "",
+        "co-pi": ["Min Sun", "Jing Li"],
+        "docs": ["artifacts/2010/Spatial-Cloud-Project-ff-2010.pdf"]
+    }
+}

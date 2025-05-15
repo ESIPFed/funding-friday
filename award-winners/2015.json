@@ -1,0 +1,58 @@
+{
+    "Sean Barberie": {
+        "funding-cycle": 2015,
+        "title": "HumanHAB",
+        "desc": "HumanHAB is an exploratory project to explore what data sets and statistical indicators may better represent the nuanced impressions that people have about these complicated human habitats. Some potential indicators that will be explored are: walkability and public transit, local-businesses versus chains, and correlation exceptions... This project is highly exploratory, and the methods and relevant indicators will change and develop with the project.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Brandon Whitehead": {
+        "funding-cycle": 2015,
+        "title": "Semantic models for the ESIP community",
+        "desc": "Semantic matching of orthogonal facets of the ESIP community could provide some semblance of an enhanced search (and perhaps visualization component) along with an understanding of where the community has been (conceptually) versus where it may be going. More broadly, the proposal aims to capture the emergent structures, patterns, or clusters of information prevalent in within the community.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Sarah Ramdeen": {
+        "funding-cycle": 2015,
+        "title": "Stewardship of physical data, Use case and community engagement",
+        "desc": "ESIP supports a wide variety of work related to earth science information. One prominent group within ESIP is the Data Stewardship Committee... Given the overwhelming activities the Data Stewardship Committee is working on, there is a need to explore an ESIP cluster to focus on this narrow subset and to act as a leader among this community. The project will develop a use case describing the existing issues related to stewardship of physical data and work on building connections between these diverse communities.",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2015/Sarah-Ramdeen-2015.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Sophie Hou": {
+        "funding-cycle": 2015,
+        "title": "Roadmap for the Next Generation Data Management Training Modules",
+        "desc": "From 2011-2103, ESIP partnered with NOAA and the Data Conservancy to produce the current version of the 'ESIP Data Management for Scientists Short Course'. To understand the current needs for data management training and to build effective training resources, the Committee would like to assess the current landscape Data Management Training (DMT) resources. This project will contribute to the Committee's roadmap as well as determining potential collaborators for the ESIP Short Course.",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2015/Sophie-Hou-2015.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Soren Scott": {
+        "funding-cycle": 2015,
+        "title": "A Github Badging System",
+        "desc": "Github badges provide a quick and visual way to indicate build status, code coverage or participation in crowdfunding opportunities. There is a desire in the ESIP community to acknowledge participation in ESIP collaborations without requiring (or creating the expectation) that a project repository be hosted under the ESIP Federation Github organization... This project proposes a system of badges that can be included in a project's README documentation as a simple branding activity.",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2015/Soren-Scott-2015.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Wade Bishop": {
+        "funding-cycle": 2015,
+        "title": "Harvesting Information Partnerships for Geospatial data Education and Outreach (HIPGEO)",
+        "desc": "The HIPGEO project will create a potential partner directory to grow ESIP institutional membership. This list combined with existing members also provides a useful sampling frame for job analyses to inform the earth data science curriculum.",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2015/Wade-Bishop-2015.png",
+        "co-pi": ["Jeni Trimmer", "Lara Marler"],
+        "docs": []
+    },
+    "Shelley Olds": {
+        "funding-cycle": 2015,
+        "title": "Interactive Interface To Explore Natural Hazards And Vulnerability In Coastal Communities",
+        "desc": "Along the coast of the Pacific Northwest a massive earthquake could occur at anytime. Residents and visitors often aren’t familiar with how to prepare or respond. In this project, an interactive map will provide an interface to explore hazards and vulnerability data available for the coastal Pacific Northwest.",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2015/Shelley-Olds-2015.png",
+        "co-pi": [],
+        "docs": []
+    }
+}

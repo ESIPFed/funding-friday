@@ -1,0 +1,50 @@
+{
+    "Ruth Duerr": {
+        "funding-cycle": 2017,
+        "title": "A 20-year Surprise",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2017/Ruth-Duerr-2017.png",
+        "co-pi": ["Reid Boehm"],
+        "docs": []
+    },
+    "Beth Huffer": {
+        "funding-cycle": 2017,
+        "title": "Earth Science Idol",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2017/Beth-Huffer-2017.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Ryan Bowe": {
+        "funding-cycle": 2017,
+        "title": "Photogrammetric Metadata",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2017/Ryan-Bowe-2017.png",
+        "co-pi": ["Gary Motz"],
+        "docs": []
+    },
+    "Matt Bartos": {
+        "funding-cycle": 2017,
+        "title": "Automated Sensor Firmware",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2017/Matt-Bartos-2017.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Lori Baker": {
+        "funding-cycle": 2017,
+        "title": "Data, Drones & Great American Eclipse",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2017/Lori-Baker-2017.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Deborah Gaff": {
+        "funding-cycle": 2017,
+        "title": "Collecting Data that Matters - Physical Computing",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2017/Deborah-Gaff-2017.png",
+        "co-pi": [],
+        "docs": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "Sean Gordon": {
+        "funding-cycle": 2016,
+        "title": "Making Metadata Easy with Geonetwork",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2016/Sean-Gordon-2016.jpg",
+        "co-pi": [],
+        "docs": []
+    },
+    "Kate Young": {
+        "funding-cycle": 2016,
+        "title": "Pimp My Drone",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2016/Kate-Young-2016.jpg",
+        "co-pi": ["Janine Aquino"],
+        "docs": []
+    },
+    "Denise Hills": {
+        "funding-cycle": 2016,
+        "title": "Questionable Community Continuity",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2016/Denise-Hills-2016.jpg",
+        "co-pi": ["Kim Hines", "Steve Diggs", "Ismael Simley"],
+        "docs": []
+    },
+    "Sam Silva": {
+        "funding-cycle": 2016,
+        "title": "Understanding Vegetation Through Social Media",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2016/Sam-Silva-2016.jpg",
+        "co-pi": [],
+        "docs": []
+    },
+    "Ed Flathers": {
+        "funding-cycle": 2016,
+        "title": "Meanwhile, in dataland",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2016/Ed-Flathers-2016.jpg",
+        "co-pi": [],
+        "docs": []
+    },
+    "Tammy Glover": {
+        "funding-cycle": 2016,
+        "title": "Can we do... Sustainable?",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2016/Tammy-Glover-2016.jpg",
+        "co-pi": [],
+        "docs": []
+    },
+    "Kalo Haslem": {
+        "funding-cycle": 2016,
+        "title": "The use of STEM and Drones in the Middle School Classroom to Assist Student Learning",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2016/Kalo-Haslem-2016.jpg",
+        "co-pi": [],
+        "docs": []
+    }
+}

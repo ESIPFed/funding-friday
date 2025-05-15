@@ -1,0 +1,50 @@
+{
+    "Annette Schloss": {
+        "funding-cycle": 2011,
+        "title": "Digital Earth Watch in Action",
+        "desc": "The project will engage three graduate students in carrying out analysis projects using picture sets taken by citizens as part of the Digital Earth Watch (DEW) / Picture Post Network. A Picture Post is an easy-to-use and inexpensive platform for repeatedly taking digital photographs as a standardized set of images of the entire 360° landscape, which then can be shared over the Internet on the Picture Post website. This simple concept has the potential to create a wealth of information and data on changing environmental conditions, which is important for a society grappling with the effects of environmental change. This project will demonstrate the value of picture posts for contributing to national monitoring networks tasked with establishing changes in the landscape due to climate, for providing ground truth data for remote sensing products, and for telling stories about what’s happening locally at a particular site. Students will work under the guidance of DEW team leaders and will participate in the ESIP student cluster throughout the next year. Students will present their work at the ESIP summer meeting 2012.",
+        "image": "",
+        "co-pi": [],
+        "docs": ["artifacts/2011/Digital-Earth-Watch-in-Action-ff-2011.pdf"]
+    },
+    "Joseph Glassy": {
+        "funding-cycle": 2011,
+        "title": "Demonstrating preservation connections using OAI-ORE",
+        "desc": "The Open Archives Initiative - Object Reuse and Exchange (OAI-ORE) protocol was developed to enable the exchange of information about complex e-science objects. The purpose of this project is to determine whether or not such a protocol is capable of describing and making available information about digital data sets in the Earth sciences. To test these capabilities we intend to test OAI-ORE using provenance and context information for NASA's MODIS instrument. We intend to describe the entire suite of available information as described in the OAIS reference model and further explicated through the USGCRP's report Global Change Requirements for Long-Term Archiving and developing ESIP Provenance and Context Content Standard for at least one of the MODIS Level 3 data products and all of it's precursor products. The results of this test will be demonstrated through a very simple web site depicting the connections and describing any problems and successes encountered.",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2011/Joseph-Glassy-2011.png",
+        "co-pi": ["Ruth Duerr"],
+        "docs": ["artifacts/2011/Demonstrating-preservation-connections-using-OAI-ORE-ff-2011.pdf"]
+    },
+    "Karl Benedict": {
+        "funding-cycle": 2011,
+        "title": "Enhanced Collaborative Disaster Management Through Interoperable Data Visualization",
+        "desc": "",
+        "image": "Rapid access to shared data and information is the key to successful planning and response to disasters. StormCenter Communications has developed a highly interactive, distributed geospatial information collaboration environment that allows participants at separate locations to interact with and exchange spatially referenced data within the Google Earth environment. This collaborative exchange is based upon custom interface and communications tools that StormCenter has developed on top of the Google Earth platform. The Earth Data Analysis Center at UNM has extensive expertise in packaging data and visualization services for delivery into Google Earth through two key Open Geospatial Consortium Standards: KML (a data and representation standard) and Web Map Services (WMS, a map data visualization standard), both individually and in combination. This project will entail the coordinated development of additional key data products (published both as base WMS services, and as WMS services embedded within KML) that enhance the suite of data available through the Google Earth collaboration tool, integration of those products into the platform, and delivery of those products to disaster professionals already using the platform. The products of this work are expected to consist of the following: Increased integration of Earth Science data products into disaster planning and management; Increased system performance in the collaboration environment through the packaging of large data sets (potentially multi-TB in size) into KML with embedded WMS-delivering targeted map images instead of entire data sets; Demonstrated utility of integrating KML-wrapped WMS into the existing system – enabling the use of other published WMS services coming out of the Earth Science community (e.g. NASA NEO, NOAA NGDC)",
+        "co-pi": ["Rafael Ameller"],
+        "docs": ["artifacts/2011/Enhanced-Collaborative-Disaster-Management-Through-Interoperable-Data-Visualization-ff-2011.pdf"]
+    },
+    "Tom Narock": {
+        "funding-cycle": 2011,
+        "title": "Linked Open Research Data for Earth and Space Science Informatics",
+        "desc": "Earth and Space Science Informatics (ESSI) is inherently multi-disciplinary, requiring close collaborations between scientists and information technologists. Identifying potential collaborations can be difficult, especially with the rapidly changing landscape of technologies and informatics projects. The ability to discover the technical competencies of other researchers in the community can help in the discovery of collaborations. In addition to collaboration discovery, social network information can be used to analyze trends in the field, which will help project managers identify irrelevant, well-established, and emerging technologies and specifications. This information will help keep projects focused on the technologies and standards that are actually being used, making them more useful to the ESSI community. We address this problem with a solution involving two components: a pipeline for generating structured data from AGU-ESSI abstracts and ESIP member information, and an API and Web application for accessing the generated data. We use a Natural Language Processing technique, Named Entity Disambiguation, to extract information about researchers, their affiliations, and technologies they have applied in their research. We encode the extracted data in the Resource Description Framework, using Linked Data vocabularies including the Semantic Web for Research Communities ontology and the Friend-of-a-Friend ontology. Lastly, we expose this data in three ways: through a SPARQL endpoint, through Java and PHP APIs, and through a Web application. Our implementations are open source, and we expect that the pipeline and APIs can evolve with the community.",
+        "image": "",
+        "co-pi": ["Eric Rozell"],
+        "docs": ["artifacts/2011/Linked-Open-Research-Data-for-Earth-and-Space-Science-Informatics-ff-2011.pdf"]
+    },
+    "Jesse Roberts": {
+        "funding-cycle": 2011,
+        "title": "Engaging Climate Change Learners in Public School Settings",
+        "desc": "In the ESIP Teacher Workshops this week, a common theme was the difficulty in teaching Climate Change and the Carbon Cycle in public schools. Common themes were a lack of scientifically vetted materials, limited time for instruction due to state standards, (<4 days, for most) and the task of keeping students engaged and interested. While such a need is often addressed using educational software, approximately 20% of the attendees indicated that they had limited access to computers in their classroom. The same issues surrounding the Nitrogen cycle were recently addressed by the creation of 'The N Game', a combination board and card game. It was designed to be educational and fun, and was released under a Creative Commons license, so it can be downloaded and printed, or purchased on game-typical, glossy cardstock. The existence of a scientifically vetted, freely available, physical game solves many of the problems voiced by the teachers. While various carbon and climate games exist, few are truly appropriate for classroom use. Many rely upon numerous pieces and parts, which often stray in classroom environments. Many require a board, and can only accommodate a small numbers of players. Few teachers can purchase (or even print out) 5-10 copies of a game to teach a single unit. There is a need for a quick, educational, scientifically vetted, and entertaining game that can be used to teach about the carbon cycle and climate change in a public school setting. It needs to be simple to learn, fast to play, and open to large numbers of players. These parts exist separately in a number of different games. What's required is the funding to bring them all together, apply polish and scientific review, and disseminate this engaging educational tool to educators. ESIP, in conjunction with its teacher workshops and scientific base seems to be an ideal incubator and test-ground for a project like this.",
+        "image": "",
+        "co-pi": [],
+        "docs": ["artifacts/2011/Engaging-Climate-Change-Learners-in-Public-School-Settings-ff-2011.pdf"]
+    },
+    "Oleg Aulov": {
+        "funding-cycle": 2011,
+        "title": "Self-Organizing Maps for Automated Oil-Spill Detection",
+        "desc": "A self-organizing map (SOM) or selforganizing feature map (SOFM) is a type of artificial neural network that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples, called a map. Self-organizing maps are different from other artificial neural networks in the sense that they use a neighborhood function to preserve the topological properties of the input space.",
+        "image": "",
+        "co-pi": [],
+        "docs": ["artifacts/2011/Self-Organizing-Maps-for-Automated-Oil-Spill-Detection-ff-2011.pdf"]
+    }
+}

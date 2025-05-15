@@ -1,0 +1,50 @@
+{
+    "Tanya Flore": {
+        "funding-cycle": 2012,
+        "title": "Climate Change - One Student @ a Time",
+        "desc": "The purpose of this project is to raise awareness and responsibility in the minds of American School Aged Youth by engaging the students in a meaningful exploration of Global Climate Change Science. The project also will address national science standards embedded in Science Curriculum for the Classroom grades 6 - 8. The project will assemble a kit for science and/or social studies teachers that will add fun to the study of Climate Change. The kit will be housed at the University of New Mexico, in the Maxwell Museum of Science, and also at the New Mexico Museum of Natural History. The Computer program component is made to double as a stand-alone application (can be used without the “kit”) and, if needed, will have priority funding and replace the kit as the entire project.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Xiaogang Ma": {
+        "funding-cycle": 2012,
+        "title": "Exploratory visualization of earth science data in a Semantic Web context",
+        "desc": "While earth science data are increasingly being shared online, we currently face a shortage of tools and services that support information and knowledge discovery with such online data. Moreover, users of these data are not only geoscientists but also the average citizen. We aim to chain up Semantic Web technologies, data visualization and online earth science data to develop exploratory functions for information and knowledge discovery. Expected outputs of this study include: (1) Updated interactive functions between ontologies, visualizations and online geological map services based on our previous work; (2) A prototype of an enhanced online geological map service portal by using ontologies and visualizations; and (3) Theoretical discussion on how to use visualization to lower the barrier of ontology applications and online geological maps to average citizen.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Bruce Caron": {
+        "funding-cycle": 2012,
+        "title": "Preprint Service with Open Review",
+        "desc": "The initial prototype will be built by extending WordPress (wordpress.org, http://wordpress.org/), an open-source content-management system with a flexible architecture and support from a wide community of users and developers. We will likely make use of code from Annotum (annotum.org, http://annotum.org/), the WordPress-based journal-publishing system used to publish PLoS Currents. Another useful reference system is CommentPress (futureofthebook.org/commentpress, http://www.futureofthebook.org/commentpress/), which is also WordPress-based and allows fine-grained commenting on documents. Stack Exchange (stackexchange.com, http://stackexchange.com) will serve as a model for voting and reputation, but their source code is not currently available. In order to ensure performance while avoiding additional development burden, we will employ a content-distribution network such as Amazon CloudFront (aws.amazon.com/cloudfront, http://aws.amazon.com/cloudfront/), which is supported by several WordPress plugins.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Vicky Wolf": {
+        "funding-cycle": 2012,
+        "title": "Revitalizing Forgotten Data: Bringing 40 years of Glacial Photography into the Digital Age",
+        "desc": "The GeoData Center (GDC), operated by the Alaska Satellite Facility for the Geophysical Institute of the University of Alaska Fairbanks, is the home for a Glacial Photography collection that spans the 1950s to the early 2000s. The collection consists of photos and negatives taken from planes and the ground of glaciers in Alaska. In early 2012, a researcher was awarded a grant to digitize a portion of the collection for his own use. He will give copies of the digitized images to the GDC for distribution via the web. The GDC is responsible for developing the infrastructure needed to distribute the data. The funding from the ESIP Federation will be utilized to generate metadata for both the collection and the individual photos. The metadata will be generated from field notes and flight logs that exist for all the photos. The metadata will be published on the web in formats compatible with OpenSearch and RSS feeds to facilitate data discovery on a broad scale. The primary goal of the project is to increase the visibility of the collection so that the imagery can be found and utilized in research. A secondary goal is to develop a structure that can be used for enhancing the discovery of other collections held by the GDC.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Sarah Ramdeen": {
+        "funding-cycle": 2012,
+        "title": "Assessing Skills, Access and Trust of Data Use and Reuse within the ESIP community",
+        "desc": "The purpose of this study is to reflect on the current state of skills, access, and trust relating to data use and reuse within the ESIP member community. This study will specifically focus on the data lifecycle. The data lifecycle includes curation, access to data by the user community and the skills needed to perform these services or tasks. It is important to understand what skills are needed in searching for scientific data sets. This includes research, technological and cognitive skills. Collections must be discoverable and accessible. In order to make use of a collection, users must be able to successfully search and find scientific data sets within these repositories and the resulting data must be in a format which is useable for their purposes. Finally, when accessing scientific data repositories, individuals must evaluate the trustworthiness of the collections and determine the quality of data it houses before deciding to use repository resources. In order to learn more about these areas we will send a questionnaire to the ESIP community asking participants to recall their personal experiences with data use specifically the skills and training they felt they needed to be successful searchers, how they accessed collections, what barriers they encountered along the way, and finally, how they determined trustworthiness and quality of the data they discovered and ultimately used.",
+        "image": "",
+        "co-pi": ["Angela Murillo"],
+        "docs": []
+    },
+    "Reid Boehm": {
+        "funding-cycle": 2012,
+        "title": "Interactive Federation Network Analysis Tool",
+        "desc": "The Interactive Federation Network Analysis Tool aims to visualize and analyze the ESIP Federation as a dynamic ecosystem of interconnected components and collaborations. The tool will represent relationships as nodes and edges, with layered content to explore changes in the network over time. Visual elements such as color, line strength, and text size will highlight clusters, systems, and the strength of connections. The tool will focus on four major dimensions of ESIP's ecosystem: functional (data centers, research, applications, education), cross-sector (public, academic, commercial, nonprofit), cross-domain (land, oceans, atmosphere, life, and their interconnections), and cross-agency (e.g., NASA, NOAA, EPA, NSF). These dimensions will guide the design and organization of the tool, linking current web presences as needed. The network roots include projects (the most diverse element) and individuals (the most granular element). The software will enable the creation and simulation of network maps over time, with outputs that can be integrated into the ESIP Commons via Drupal as a display module, providing links to node records. This tool will enhance understanding of ESIP's adaptability and self-organizing nature as a collaborative ecosystem.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    }
+}

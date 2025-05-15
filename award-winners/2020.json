@@ -1,0 +1,50 @@
+{
+    "Amber Budden": {
+        "funding-cycle": 2020,
+        "title": "Why is this so hard?",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2020/Amber-Budden-2020.png",
+        "co-pi": ["Daniella Lowenberg", "Shelley Stall", "Denise Hills", "Erin McLean", "Rob Crystal Ornelas", "Kristin Vanderbilt"],
+        "docs": []
+    },
+    "Robert Rovetto": {
+        "funding-cycle": 2020,
+        "title": "Semantic Orbital Sweep",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2020/Robert-Rovetto-2020.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Sarah Ramdeen": {
+        "funding-cycle": 2020,
+        "title": "Deep Time Climate Data",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2020/Sarah-Ramdeen-2020.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Alexis Garretson": {
+        "funding-cycle": 2020,
+        "title": "Columba",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2020/Alexis-Garretson-2020.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Jake Hinz": {
+        "funding-cycle": 2020,
+        "title": "SOS Explorer",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2020/Jake-Hinz-2020.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Steven Martell": {
+        "funding-cycle": 2020,
+        "title": "Drone Data for Schools",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2020/Steven-Martell-2020.png",
+        "co-pi": [],
+        "docs": []
+    }
+}

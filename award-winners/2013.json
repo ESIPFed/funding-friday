@@ -1,0 +1,42 @@
+{
+    "Annette Schloss": {
+        "funding-cycle": 2013,
+        "title": "Demonstration of a mobile application for estimating forest canopy closure using digital photographs",
+        "desc": "This project will demonstrate using mobile devices as scientific instruments that can be used by students, professionals, and citizens for collecting and analyzing high-quality data. The project will create a demonstration application for a tablet (either Apple or Android OS) that will allow the user to take a digital photograph in the UP direction and analyze the photograph to estimate forest canopy closure. The project will engage undergraduate student programmers in developing and testing the app under the direction of the project leaders. The analysis algorithm will be based on pixel color and brightness to separate branches and foliage from sky cover. The app will create an initial estimate, and then allow the user to make modifications manually. This concept is similar to the process that has been used in the DEW Analyzing Digital Images (ADI) software package, but will allow the user to take and analyze pictures on-site. The capability to do so will enhance learning in-the-field, and if the algorithm proves commercially viable, will greatly streamline the process for foresters.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Denise Hills": {
+        "funding-cycle": 2013,
+        "title": "Making the Case for Data Stewardship Use Cases: A Community Building and Engagement Exercise",
+        "desc": "The project aims to expand the ESIP Data Stewardship community by engaging individuals from all stages of the data life cycle, fostering interdisciplinary connections, and promoting ESIP's mission to a more diverse audience. The plan includes submitting a proposal for a Town Hall meeting at the Fall 2013 AGU meeting and two abstracts to an Informatics session—one addressing the broader purpose of Data Stewardship Use Cases and the other focusing on a specific Use Case. Presentations will either promote the Town Hall or serve as standalone efforts to achieve the outlined goals. Expected outcomes include broader community involvement in the ESIP Data Stewardship Committee, increased knowledge of Data Stewardship standards and practices, and a potential publication summarizing the results.",
+        "image": "",
+        "co-pi": ["Sarah Ramdeen"],
+        "docs": []
+    },
+    "Jin Guang Zheng": {
+        "funding-cycle": 2013,
+        "title": "Semantic Similarity Computation and Concept Mapping in Earth and Environmental Science",
+        "desc": "Ontologies have been widely adopted and used by Earth and Environmental Science community to capture and represent knowledge in the domain. One of the major problem that prevent us to combine and reuse these ontologies to solve more interesting problems is semantic heterogeneity problem, for example, same vocabularies from different ontologies may refer to different concept; or different terms from different ontologies may have same meaning. In this proposed work, we will address the problem by (1) developing a semantic similarity computation model to compute similarity among the concepts in Earth and Environmental Science; (2) based on the computation model, we will implement concept mapping tool that creates alignment for concepts that are semantically the same; (3) we will demonstrate the effectiveness of the tool using GCMD and CLEAN vocabularies and other earth science related ontologies.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Chunming Peng": {
+        "funding-cycle": 2013,
+        "title": "Agricultural Drought Information Cluster",
+        "desc": "The Agricultural Drought Information Cluster aims to address the challenges faced by researchers, farmers, and decision-makers in accessing, analyzing, and utilizing drought-related data. Traditional methods for mapping and analyzing agricultural drought are time-consuming and fragmented, with data stored across multiple servers and agencies using inconsistent methodologies. This project proposes a one-stop, self-service platform that integrates data, technology, and drought information to streamline the process of drought monitoring and forecasting. The system will allow users to define custom drought indicators in three steps: selecting dimensions (e.g., vegetation conditions, soil moisture), choosing and weighting specific indicators (e.g., Vegetation Condition Index), and validating the results through correlation or contrast mapping. This platform will enable users to build tailored drought indicators, generate drought severity maps, and validate their findings efficiently. By providing a comprehensive and interoperable system, the Agricultural Drought Information Cluster will facilitate data sharing, enhance understanding of agricultural drought, and empower users to make informed decisions. This initiative aims to save time, improve accessibility, and foster collaboration among researchers, agencies, and the general public.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Emily Northrup": {
+        "funding-cycle": 2013,
+        "title": "Aquaponics For Triage and Emergency Response (AFTER)",
+        "desc": "The overall intentions of my project are for American emergency response agencies to drop aquaponics systems in regions after a disaster event has occurred and teach those in the areas to use the systems. Through the use of technologies such as Esri ArcMap, Worldview, iRODS, ect. I plan to use geospatial data from a variety of DAACs to pre-plan for especially vulnerable regions based on weather, climate, and population how to optimize the aquaponics system.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    }
+}

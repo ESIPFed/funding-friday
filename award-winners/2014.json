@@ -1,0 +1,66 @@
+{
+    "Bruce Caron": {
+        "funding-cycle": 2014,
+        "title": "Working Group Syndicated Content Tool",
+        "desc": "Similarly focused working groups across organizations such as ESIP, Research Data Alliance (RDA) and EarthCube (EC) could share content from their respective online website workspaces through a syndicated RSS feed for display on the other related working group websites. Coincidentally, all of these sites run on the Drupal platform, for which, the EOSDIS group developed code, or Drupal module, that syndicates content across multiple Drupal sites - the Earth Data Federated Content Tool (ED-FCT).",
+        "image": "",
+        "co-pi": ["Adam Shepherd"],
+        "docs": []
+    },
+    "Kaijian Xu": {
+        "funding-cycle": 2014,
+        "title": "Rich Semantic Annotation for Science Media Repositories",
+        "desc": "This project provides a new framework for a highly expressive, descriptive annotation of multimedia content like images, video, etc. in scientific repositories, using a language structure that is inspired by word classes (e.g. nouns, verbs, etc.) in everyday (“natural”) languages. Such a framework would be used to capture and represent rich, semantic annotations about what objects and features are present within the scene, the interactions between them, as well as further describe such objects and interactions.",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2014/Kaijian-Xu-2014.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Kelly Monteleone": {
+        "funding-cycle": 2014,
+        "title": "Converting mb-system Files in Windows and Apple",
+        "desc": "Mb-system is a unix based program for multibeam sonar (Bathymetry) data. Mb-system was supported by NOAA from 2002 to 2004. It does not work in windows and is complicated to install and use. Goal: Create a one click installer that will install Cygwin, mb-system, and supporting files on a windows system. And pull out a python wrapper for Apple and non-cygwin installation. This will provide a GUI to export the data in xyz, ascii, and GeoTIFF.",
+        "image": "",
+        "co-pi": ["John Relph", "Jason Ninneman", "Rob Carver"],
+        "docs": []
+    },
+    "Kevin Dobbs": {
+        "funding-cycle": 2014,
+        "title": "Leveraging the Power of Google Earth Engine to Derive High Quality Water Reference Data for Flood Disaster Decision Support",
+        "desc": "At the 2014 Summer ESIP meeting a poster was created and presented based on the idea that American emergency response agencies can utilize aquaponics systems after a disaster event has occurred in any region. It is imperative that the aquaponics systems be suited for the region based on climate and population and that the people of the area are taught how to use and maintain the systems. Through the use of technologies such as Esri ArcMap, Worldview, iRODS, ect. geospatial data from a variety of DAACs will be used to pre-plan for a case study on a particular region.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Kyle Nelson": {
+        "funding-cycle": 2014,
+        "title": "Enhancing and Educating with the WxSat Mobile App",
+        "desc": "At the 2014 Summer ESIP meeting a poster was designed and presented to promote the idea of building upon the successful WxSat app (iOS and Android) that allows users to view global visible, infrared and water vapor satellite data on mobile devices. Current products are viewable in black and white but color enhanced imagery can allow for ease of identification of key weather features. Satellite imagery is becoming more prevalent with ease of access online and is being displayed increasingly often on local and national weather segments. To enhance the understanding of the all who view satellite data, an educational tutorial will be created with case studies for all three imagery types. Meteorological phenomena will be identified through annotated still and animated images to provide a conceptual model for the user to apply when viewing satellite imagery in real time via the WxSat app or another source.",
+        "image": "",
+        "co-pi": ["Margaret Mooney"],
+        "docs": []
+    },
+    "Lee Hyokyung": {
+        "funding-cycle": 2014,
+        "title": "HDFCRAFT - Making Earth Data Fun!",
+        "desc": "At the 2014 Summer ESIP meeting a poster was created and presented based on the idea that NASA HDF/HDF-EOS data products can be used for Minecraft game. Minecraft stores its world maps in Anvil file format that has similar characteristics that HDF has. By converting NASA HDF data into Minecraft map, kids and educators can play with NASA Earth Data easily in 3D.",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2014/Lee-Hyokyung-2014.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Matt Ferrito": {
+        "funding-cycle": 2014,
+        "title": "ToolMatch Extension",
+        "desc": "The ToolMatch project was based upon the idea of semantic matching of data collections and tools that could be used with those data collections. Specifically, two use cases were developed for the service: 1. Search for the tools that can be used with a given data collection, and then find out what the tool can do with the data collection. 2. Search for collections that can be used with their tool, and capture information about what the data user would like to be able to do with their data. The poster created and presented at the 2014 ESIP Summer Meeting was based upon the idea of an extension of the second use case. This extension involves the semantic matching of data collection content with applicable tools. This matching is stricter than than matching based upon information about the data collection, but the use case itself is broader in scope. Ex: Given rainfall or topology measurements, determine which tools within a hyrdologoical model can be used with the data content. This will allow the appropriate tools within the model to be used with the matching data collection content.",
+        "image": "",
+        "co-pi": [],
+        "docs": []
+    },
+    "Linyun Fu": {
+        "funding-cycle": 2014,
+        "title": "Towards Automatic Provenance Capturing for Research Publications",
+        "desc": "Provenance information is critical for research publication readers to correctly interpret report content and enables them to evaluate the report by digging into the software in use, source data and responsible agents. However, creating proper provenance information for research publications is very hard. We propose a project to develop a platform that can automatically capture provenance information in the process of preparing publications. The idea is that authors just need to do their regular authoring jobs on the platform without caring about provenance, which is captured by the library functions of the platform in an non-distracting manner.",
+        "image": "",
+        "co-pi": ["Massimo Di Stephano"],
+        "docs": []
+    }
+}

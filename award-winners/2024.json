@@ -1,0 +1,50 @@
+{
+    "Pam Freeman": {
+        "funding-cycle": 2024,
+        "title": "Teaching Differently Abled Learners To be Citizen Scientists",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2024/Pam-Freeman-2024.jpg",
+        "co-pi": [],
+        "docs": []
+    },
+    "Timothy Freeman": {
+        "funding-cycle": 2024,
+        "title": "A Day in the Life of Part of the Lake Erie Watershed Near Buffalo, New York – October 3, 2024",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2024/Timothy-Freeman-2024.jpg",
+        "co-pi": [],
+        "docs": []
+    },
+    "Debasish Mishra": {
+        "funding-cycle": 2024,
+        "title": "FUSION (Framework for Unifying Systematic Integration of Observational Networks)",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2024/Debasish-Mishra-2024.jpg",
+        "co-pi": [],
+        "docs": []
+    },
+    "Amy Quarkume": {
+        "funding-cycle": 2024,
+        "title": "Communities Yielding Power by Harnessing Emergent Resources (CYPHER)",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2024/Amy-Quarkume-2024.jpg",
+        "co-pi": ["Agbeli Ameko", "Steve Diggs", "Keith Maull", "Curtis Walker"],
+        "docs": []
+    },
+    "Indigenous Data Team": {
+        "funding-cycle": 2024,
+        "title": "Enhancing Indigenous Data Management Capacity",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2024/Indigenous-Data-Team-2024.jpg",
+        "co-pi": [],
+        "docs": []
+    },
+    "Chandra Earl": {
+        "funding-cycle": 2024,
+        "title": "Expand and Sustain The Data Help Desk",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2024/Chandra-Earl-2024.jpg",
+        "co-pi": ["Amber Budden", "Steve Diggs"],
+        "docs": []
+    }
+}

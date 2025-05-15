@@ -1,0 +1,50 @@
+{
+    "Yuhan Rao": {
+        "funding-cycle": 2019,
+        "title": "Tutorials: Introducing Machine Learning",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2019/Yuhan-Rao-2019.png",
+        "co-pi": ["Anne Wilson", "Nancy Hoebelheinrich"],
+        "docs": []
+    },
+    "Ted Habermann": {
+        "funding-cycle": 2019,
+        "title": "Identifying ESIP Connections",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2019/Ted-Habermann-2019.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Chao Ma": {
+        "funding-cycle": 2019,
+        "title": "Deep Time Climate Data",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2019/Chao-Ma-2019.png",
+        "co-pi": ["Marshall Ma"],
+        "docs": []
+    },
+    "Ellie Davis": {
+        "funding-cycle": 2019,
+        "title": "Bill-ding Bridges: Data informing policy",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2019/Ellie-Davis-2019.png",
+        "co-pi": ["Ben Roberts-Pierel"],
+        "docs": []
+    },
+    "Rose Borden": {
+        "funding-cycle": 2019,
+        "title": "Developing a Series of Flexible Modules for Community College Earth Science Students",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2019/Rose-Borden-2019.png",
+        "co-pi": ["Katy Rico"],
+        "docs": []
+    },
+    "Marguerite Walker": {
+        "funding-cycle": 2019,
+        "title": "Drone Data for Schools",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2019/Marguerite-Walker-2019.png",
+        "co-pi": [],
+        "docs": []
+    }
+}

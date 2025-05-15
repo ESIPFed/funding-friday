@@ -1,0 +1,50 @@
+{
+    "James Gallagher": {
+        "funding-cycle": 2018,
+        "title": "Harvesting User Knowledge",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2018/James-Gallagher-2018.png",
+        "co-pi": ["Bob Simmons"],
+        "docs": []
+    },
+    "Keith Maull": {
+        "funding-cycle": 2018,
+        "title": "A Searchable Repository of Notebook Metadata",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2018/Keith-Maull-2018.png",
+        "co-pi": ["Ben Galewsky", "Sean Gordon"],
+        "docs": []
+    },
+    "Shayna Skolnik": {
+        "funding-cycle": 2018,
+        "title": "Are you a climate warrior?",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2018/Shayna-Skolnik-2018.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Connor Scully-Allison": {
+        "funding-cycle": 2018,
+        "title": "Automatic Database & Microservice Generation from Structured Ontologies",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2018/Connor-ScullyAllison-2018.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Ranalda Tsosie": {
+        "funding-cycle": 2018,
+        "title": "How's your H2O",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2018/Ranalda-Tsosie-2018.png",
+        "co-pi": [],
+        "docs": []
+    },
+    "Patrick Chandler": {
+        "funding-cycle": 2018,
+        "title": "Now Hear This: An Audible Data Experience",
+        "desc": "",
+        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/2018/Patrick-Chandler-2018.png",
+        "co-pi": [],
+        "docs": []
+    }
+}
