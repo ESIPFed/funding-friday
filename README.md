@@ -24,6 +24,8 @@ Interested participants are encouraged to consider the July Meeting's theme and 
 
 - Registered attendees of the July Meeting are eligible to participate, including ESIP Community Fellows and participants in the Education Committee’s Teacher Workshop.
 - For group projects, all members receiving funding must be listed on the project poster, and their presence during the Poster Pitch event is strongly encouraged. Participants are also encouraged to discuss project roles and budgets during their preparation.
+- Eligible individual can serve as the lead person or principal investigator on only **one** proposed project.
+- FF is awarded as a prize and is transferred to individuals not institutions. Those individuals will be taxed on the prize (see Tax Information for the FUNding Friday awards below).
 
 ## Eligibility Restrictions
 
