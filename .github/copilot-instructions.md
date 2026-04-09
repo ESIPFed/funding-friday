@@ -5,41 +5,62 @@
 This repository contains information about FUNding Friday (FF), an annual mini-grant competition held during ESIP's July Meeting. The repository includes:
 
 - Documentation about the program rules, eligibility, and procedures
-- Historical records of award winners from 2010-2024
+- Historical records of award winners from 2010 to present
 - Artifacts (PDFs) from funded projects organized by year
 - Images of project posters organized by year
 
 ## Repository Structure
 
-- `README.md` - Main documentation for the FUNding Friday program
-- `award-winners/` - JSON files containing award winner data by year (2010-2024)
-- `artifacts/` - Project deliverables and documentation organized by year (2008-2011)
-- `img/` - Project poster images organized by year
+```
+funding-friday/
+├── awards.json          ← Single source of truth for all award winners
+├── README.md            ← Program documentation
+├── CONTRIBUTING.md      ← How to add or update records
+├── img/YYYY/            ← Poster images (PNG only), named FirstName-LastName-YYYY.png
+└── artifacts/YYYY/      ← Project PDFs, named Project-Name-ff-YYYY.pdf
+```
+
+The `award-winners/` directory contains the legacy per-year JSON files. `awards.json` is the current source of truth.
 
 ## Data Format Standards
 
-### Award Winners JSON Structure
-Award winner files follow this format:
+### awards.json schema
+
+Each record in `awards.json` is an object in a top-level array:
+
 ```json
 {
-    "Name or Team Name": {
-        "funding-cycle": 2024,
-        "title": "Project Title",
-        "desc": "Project description",
-        "image": "https://github.com/ESIPFed/funding-friday/blob/main/img/YEAR/filename.jpg",
-        "co-pi": ["Name 1", "Name 2"],
-        "docs": []
-    }
+  "year": 2025,
+  "name": "Jane Smith",
+  "title": "Project Title",
+  "desc": "One to three sentence description of the project.",
+  "co_pi": ["Co-PI Name"],
+  "image": "img/2025/Jane-Smith-2025.png",
+  "docs": ["artifacts/2025/Project-Title-ff-2025.pdf"],
+  "funding_amount": 5000,
+  "participant_type": "attendee"
 }
 ```
 
-Key fields:
-- `funding-cycle`: Year the award was given (integer)
-- `title`: Full project title
-- `desc`: Project description (can be empty string)
-- `image`: Full GitHub URL to poster image
-- `co-pi`: Array of co-principal investigator names (can be empty array)
-- `docs`: Array of document links (can be empty array)
+Field rules:
+- `year`: integer — the award year
+- `name`: string — lead person's full name or team name
+- `title`: string — project title as on the poster
+- `desc`: string — project description; empty string `""` if unknown
+- `co_pi`: array of strings — co-PI names; `[]` if none
+- `image`: string — **relative path** from repo root (e.g., `img/2025/Name-2025.png`); `""` if no image
+- `docs`: array of strings — relative paths to PDFs; `[]` if none
+- `funding_amount`: integer or null — `5000` or `3000`; `null` if unknown
+- `participant_type`: string — `"attendee"`, `"student"`, or `"educator"`; `""` if unknown
+
+### Image standards
+- Format: **PNG only**
+- Location: `img/YYYY/FirstName-LastName-YYYY.png`
+- `image` field in awards.json uses a relative path, not a full GitHub URL
+
+### Artifact standards
+- Format: PDF
+- Location: `artifacts/YYYY/Project-Name-ff-YYYY.pdf`
 
 ## Documentation Style Guide
 
@@ -62,17 +83,10 @@ When editing the README:
 - **Payment Schedule**: Two installments (half at start, half at completion)
 - **Requirements**: Hand-drawn poster, 2-minute pitch, project presentation
 
-## File Organization Guidelines
-
-- Award winner JSON files are named by year: `YYYY.json`
-- Images are organized in `img/YYYY/` directories
-- Artifacts are organized in `artifacts/YYYY/` directories
-- Use consistent naming conventions: `Name-Title-Year.jpg` or `Project-Title-ff-year.pdf`
-
 ## When Making Changes
 
 - Verify data accuracy for award amounts, dates, and eligibility rules
-- Maintain consistency across all JSON files when updating the schema
-- Ensure image URLs use the correct GitHub path format
-- Test that all links and references are valid
-- Preserve historical accuracy - don't modify past award data without good reason
+- Ensure image paths in awards.json are relative (not full GitHub URLs)
+- Use PNG format for all images — convert if necessary with `sips -s format png input.jpg --out output.png`
+- Preserve historical accuracy — don't modify past award data without good reason
+- The `desc` field for 2016–2024 records is mostly empty and should be filled in when information is available

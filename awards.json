@@ -1,0 +1,1153 @@
+[
+  {
+    "year": 2010,
+    "name": "Weiguo Han",
+    "title": "Sharing and Analyzing Dem Datasets through DEM Explorer",
+    "desc": "Digital elevation model (DEM) datasets including SRTM, ASTER GDEM, GTOPO30 and SRTM30_Plus are freely accessible and downloadable in separate files from many federal and academic organizations. But users need to process these datasets by themselves to obtain data for the area of interest (AOI) which dose not exactly match the spatial extent of original DEM files.  DEM Explore will offer an easy and direct way to customize, visualize, download and analyze DEM datasets through a responsive and interactive web-based interface (http://ws.csiss.gmu.edu/DEMExplorer). It will provide not only valuable services such as mosaicking, subsetting, re-projecting, and reformatting for these DEM data, but also an interoperable and timely mean to get the interest DEM data by sending standard WCS request to WCS4DEM (http://geobrain.laits.gmu.edu/cgi-bin/gbwcs-dem ). With the intent of improving user's knowledge from DEM data, common terrain analysis functions will be integrated to learn terrain characteristics, and hydrological analysis web services implemented in the GeoBrain project will be invoked to obtain hydrologic patterns. In addition, Web services in relation to DEM analysis from other sources will be called to extend system capabilities. Utilizing new Web 2.0 technologies and geospatial data and service standards, DEM Explorer will be a comprehensive one-stop portal for DEM data delivery, visualization and analysis.",
+    "co_pi": [],
+    "image": "",
+    "docs": [
+      "artifacts/2010/DEMExplorer-SOW-ff-2010.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2010,
+    "name": "Rebecca Reid",
+    "title": "Continuing the Connections",
+    "desc": "This project aims to support educators by fostering collaboration and resource sharing among teachers who have attended ESIP conferences. It proposes creating a website to share lesson ideas and continue conversations initiated at the conferences. Teachers will receive stipends for developing lesson plans that utilize ESIP tools, data, and resources, as well as for implementing these lessons with students and sharing their experiences on the website. This initiative seeks to maintain connections, encourage innovative teaching, and expand the use of ESIP resources in classrooms.",
+    "co_pi": [
+      "Margaret Mooney"
+    ],
+    "image": "",
+    "docs": [
+      "artifacts/2010/Continuing-the-Connects-SOW-ff-2010.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2010,
+    "name": "Rahul Ramachandran",
+    "title": "Can you build an iPhone app without needing a developer?",
+    "desc": "This study aims to evaluate tools and services that enable non-developers to convert web page content into iPhone applications. The project will assess these tools based on functionality and cost, and create ESIP iPhone app prototypes using ESIP web page content. Deliverables include an ESIP iPhone app prototype, a report with recommendations on the best tool for creating iPhone apps, and a short tutorial to guide ESIP members in using the selected tool.",
+    "co_pi": [],
+    "image": "",
+    "docs": [
+      "artifacts/2010/IPhone-app-SOW-ff-2010.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2010,
+    "name": "Marlene Taylor",
+    "title": "Beaver Creek Project",
+    "desc": "The Beaver Creek Project is a start-up blog featuring three articles with multimedia components that explore the rehabilitation of Beaver Creek in north Knox County, Tennessee. The first article highlights the creek's degradation due to urbanization in the 1990s and the grassroots efforts to restore it. The second article showcases the collaborative achievements of a diverse task force, including stream bank restoration, riparian plantings, and infrastructure repairs. The third article introduces a green infrastructure plan developed by University of Tennessee researchers, emphasizing sustainable community development to improve quality of life and preserve natural amenities in the Beaver Creek watershed.",
+    "co_pi": [],
+    "image": "",
+    "docs": [
+      "artifacts/2010/Beaver-Creek-Project-ff-2010.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2010,
+    "name": "Matthew Rogan",
+    "title": "Campbell-Stokes Sunshine Recorder Charts Project",
+    "desc": "The Campbell-Stokes Sunshine Recorder Charts Project aims to digitize and analyze over 40,000 historical sunshine recorder charts dating back to 1885 from the Blue Hill Observatory in Milton, MA. The project involves scanning the charts into a computer database and using image analysis software to measure burn sizes, providing hourly sunlight intensity data. The resulting dataset will be made readily available, with analysis methods including measuring burn radii or calculating burn-to-chart ratios for sunlight intensity percentages. This initiative preserves historical data while enabling new insights into solar intensity trends.",
+    "co_pi": [],
+    "image": "",
+    "docs": [
+      "artifacts/2010/Campbell-Stokes-Sunshine-Recorder-Charts-Project-ff-2010.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2010,
+    "name": "Annie Byrnes",
+    "title": "State Tectonics Project",
+    "desc": "My project is to create a website, www.statetectonics.com, to provide easy access to layman\u2019s information about plate tectonic activity across the country for citizens to get a better understanding of the history, science, and potential for earthquakes and volcanic activity in their area. The home page of the site will have a large map of the United States from which a visitor can click to their specific region of the map to get more information. The site will also have a background page which gives a larger-scale view of how the U.S. fits into world tectonics, including references to recent earthquakes, such as the one in Haiti, and how that affects the North American plate. The site will be interactive, using Adobe Flash to make the map clickable, and will also make use of audio clips and pictures. The overall goal is not to compete with usgs.gov, but to make information that is available on usgs.gov more accessible and streamlined, so that members of the public with an interest in US tectonics can easily and quickly find some baseline information on their area.",
+    "co_pi": [],
+    "image": "",
+    "docs": [
+      "artifacts/2010/State-Tectonics-Project-ff-2010.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2010,
+    "name": "Qunying Huang",
+    "title": "Spatial Cloud Project",
+    "desc": "We propose to develop geoprocessing services and standalone client to utilize the cloud computing and WPS services to support Earth and geography science communities funded by the Federation of Earth Science Information Partnership (ESIP). Intensive computing is highly demanded for supporting geospatial processing. However, the bridging between generic computing and geospatial processing is a critical issue for Earth sciences. Through the development of kernel GIS functionalities with standards, e.g. buffer, overlay, intersect, we can compose any sort of functionalities to process any intended applications across different domains. OGC Web Processing Service (WPS) is such a standard way to offer GIS functionality to users within network and has been an important element of geospatial processing service cloud. This research will develop several GIS spatial analysis functionalities based on WPS, and deploy those WPS processes with CISC cloud computing infrastructure as a cloud service which can be accessed online and compose geospatial functionalities by Earth Scientists. The study case, analyzing the impact of dust storm on public health in Arizona and New Mexico, is used to demonstrate the advantages of utilizing cloud computing and WPS to support geospatial analysis on line.",
+    "co_pi": [
+      "Min Sun",
+      "Jing Li"
+    ],
+    "image": "",
+    "docs": [
+      "artifacts/2010/Spatial-Cloud-Project-ff-2010.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2011,
+    "name": "Annette Schloss",
+    "title": "Digital Earth Watch in Action",
+    "desc": "The project will engage three graduate students in carrying out analysis projects using picture sets taken by citizens as part of the Digital Earth Watch (DEW) / Picture Post Network. A Picture Post is an easy-to-use and inexpensive platform for repeatedly taking digital photographs as a standardized set of images of the entire 360\u00b0 landscape, which then can be shared over the Internet on the Picture Post website. This simple concept has the potential to create a wealth of information and data on changing environmental conditions, which is important for a society grappling with the effects of environmental change. This project will demonstrate the value of picture posts for contributing to national monitoring networks tasked with establishing changes in the landscape due to climate, for providing ground truth data for remote sensing products, and for telling stories about what\u2019s happening locally at a particular site. Students will work under the guidance of DEW team leaders and will participate in the ESIP student cluster throughout the next year. Students will present their work at the ESIP summer meeting 2012.",
+    "co_pi": [],
+    "image": "",
+    "docs": [
+      "artifacts/2011/Digital-Earth-Watch-in-Action-ff-2011.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2011,
+    "name": "Joseph Glassy",
+    "title": "Demonstrating preservation connections using OAI-ORE",
+    "desc": "The Open Archives Initiative - Object Reuse and Exchange (OAI-ORE) protocol was developed to enable the exchange of information about complex e-science objects. The purpose of this project is to determine whether or not such a protocol is capable of describing and making available information about digital data sets in the Earth sciences. To test these capabilities we intend to test OAI-ORE using provenance and context information for NASA's MODIS instrument. We intend to describe the entire suite of available information as described in the OAIS reference model and further explicated through the USGCRP's report Global Change Requirements for Long-Term Archiving and developing ESIP Provenance and Context Content Standard for at least one of the MODIS Level 3 data products and all of it's precursor products. The results of this test will be demonstrated through a very simple web site depicting the connections and describing any problems and successes encountered.",
+    "co_pi": [
+      "Ruth Duerr"
+    ],
+    "image": "img/2011/Joseph-Glassy-2011.png",
+    "docs": [
+      "artifacts/2011/Demonstrating-preservation-connections-using-OAI-ORE-ff-2011.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2011,
+    "name": "Karl Benedict",
+    "title": "Enhanced Collaborative Disaster Management Through Interoperable Data Visualization",
+    "desc": "Rapid access to shared data and information is the key to successful planning and response to disasters. StormCenter Communications has developed a highly interactive, distributed geospatial information collaboration environment that allows participants at separate locations to interact with and exchange spatially referenced data within the Google Earth environment. This collaborative exchange is based upon custom interface and communications tools that StormCenter has developed on top of the Google Earth platform. The Earth Data Analysis Center at UNM has extensive expertise in packaging data and visualization services for delivery into Google Earth through two key Open Geospatial Consortium Standards: KML (a data and representation standard) and Web Map Services (WMS, a map data visualization standard), both individually and in combination. This project will entail the coordinated development of additional key data products (published both as base WMS services, and as WMS services embedded within KML) that enhance the suite of data available through the Google Earth collaboration tool, integration of those products into the platform, and delivery of those products to disaster professionals already using the platform. The products of this work are expected to consist of the following: Increased integration of Earth Science data products into disaster planning and management; Increased system performance in the collaboration environment through the packaging of large data sets (potentially multi-TB in size) into KML with embedded WMS-delivering targeted map images instead of entire data sets; Demonstrated utility of integrating KML-wrapped WMS into the existing system \u2013 enabling the use of other published WMS services coming out of the Earth Science community (e.g. NASA NEO, NOAA NGDC)",
+    "co_pi": [
+      "Rafael Ameller"
+    ],
+    "image": "",
+    "docs": [
+      "artifacts/2011/Enhanced-Collaborative-Disaster-Management-Through-Interoperable-Data-Visualization-ff-2011.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2011,
+    "name": "Tom Narock",
+    "title": "Linked Open Research Data for Earth and Space Science Informatics",
+    "desc": "Earth and Space Science Informatics (ESSI) is inherently multi-disciplinary, requiring close collaborations between scientists and information technologists. Identifying potential collaborations can be difficult, especially with the rapidly changing landscape of technologies and informatics projects. The ability to discover the technical competencies of other researchers in the community can help in the discovery of collaborations. In addition to collaboration discovery, social network information can be used to analyze trends in the field, which will help project managers identify irrelevant, well-established, and emerging technologies and specifications. This information will help keep projects focused on the technologies and standards that are actually being used, making them more useful to the ESSI community. We address this problem with a solution involving two components: a pipeline for generating structured data from AGU-ESSI abstracts and ESIP member information, and an API and Web application for accessing the generated data. We use a Natural Language Processing technique, Named Entity Disambiguation, to extract information about researchers, their affiliations, and technologies they have applied in their research. We encode the extracted data in the Resource Description Framework, using Linked Data vocabularies including the Semantic Web for Research Communities ontology and the Friend-of-a-Friend ontology. Lastly, we expose this data in three ways: through a SPARQL endpoint, through Java and PHP APIs, and through a Web application. Our implementations are open source, and we expect that the pipeline and APIs can evolve with the community.",
+    "co_pi": [
+      "Eric Rozell"
+    ],
+    "image": "",
+    "docs": [
+      "artifacts/2011/Linked-Open-Research-Data-for-Earth-and-Space-Science-Informatics-ff-2011.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2011,
+    "name": "Jesse Roberts",
+    "title": "Engaging Climate Change Learners in Public School Settings",
+    "desc": "In the ESIP Teacher Workshops this week, a common theme was the difficulty in teaching Climate Change and the Carbon Cycle in public schools. Common themes were a lack of scientifically vetted materials, limited time for instruction due to state standards, (<4 days, for most) and the task of keeping students engaged and interested. While such a need is often addressed using educational software, approximately 20% of the attendees indicated that they had limited access to computers in their classroom. The same issues surrounding the Nitrogen cycle were recently addressed by the creation of 'The N Game', a combination board and card game. It was designed to be educational and fun, and was released under a Creative Commons license, so it can be downloaded and printed, or purchased on game-typical, glossy cardstock. The existence of a scientifically vetted, freely available, physical game solves many of the problems voiced by the teachers. While various carbon and climate games exist, few are truly appropriate for classroom use. Many rely upon numerous pieces and parts, which often stray in classroom environments. Many require a board, and can only accommodate a small numbers of players. Few teachers can purchase (or even print out) 5-10 copies of a game to teach a single unit. There is a need for a quick, educational, scientifically vetted, and entertaining game that can be used to teach about the carbon cycle and climate change in a public school setting. It needs to be simple to learn, fast to play, and open to large numbers of players. These parts exist separately in a number of different games. What's required is the funding to bring them all together, apply polish and scientific review, and disseminate this engaging educational tool to educators. ESIP, in conjunction with its teacher workshops and scientific base seems to be an ideal incubator and test-ground for a project like this.",
+    "co_pi": [],
+    "image": "",
+    "docs": [
+      "artifacts/2011/Engaging-Climate-Change-Learners-in-Public-School-Settings-ff-2011.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2011,
+    "name": "Oleg Aulov",
+    "title": "Self-Organizing Maps for Automated Oil-Spill Detection",
+    "desc": "A self-organizing map (SOM) or selforganizing feature map (SOFM) is a type of artificial neural network that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples, called a map. Self-organizing maps are different from other artificial neural networks in the sense that they use a neighborhood function to preserve the topological properties of the input space.",
+    "co_pi": [],
+    "image": "",
+    "docs": [
+      "artifacts/2011/Self-Organizing-Maps-for-Automated-Oil-Spill-Detection-ff-2011.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2012,
+    "name": "Tanya Flore",
+    "title": "Climate Change - One Student @ a Time",
+    "desc": "The purpose of this project is to raise awareness and responsibility in the minds of American School Aged Youth by engaging the students in a meaningful exploration of Global Climate Change Science. The project also will address national science standards embedded in Science Curriculum for the Classroom grades 6 - 8. The project will assemble a kit for science and/or social studies teachers that will add fun to the study of Climate Change. The kit will be housed at the University of New Mexico, in the Maxwell Museum of Science, and also at the New Mexico Museum of Natural History. The Computer program component is made to double as a stand-alone application (can be used without the \u201ckit\u201d) and, if needed, will have priority funding and replace the kit as the entire project.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2012,
+    "name": "Xiaogang Ma",
+    "title": "Exploratory visualization of earth science data in a Semantic Web context",
+    "desc": "While earth science data are increasingly being shared online, we currently face a shortage of tools and services that support information and knowledge discovery with such online data. Moreover, users of these data are not only geoscientists but also the average citizen. We aim to chain up Semantic Web technologies, data visualization and online earth science data to develop exploratory functions for information and knowledge discovery. Expected outputs of this study include: (1) Updated interactive functions between ontologies, visualizations and online geological map services based on our previous work; (2) A prototype of an enhanced online geological map service portal by using ontologies and visualizations; and (3) Theoretical discussion on how to use visualization to lower the barrier of ontology applications and online geological maps to average citizen.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2012,
+    "name": "Bruce Caron",
+    "title": "Preprint Service with Open Review",
+    "desc": "The initial prototype will be built by extending WordPress (wordpress.org, http://wordpress.org/), an open-source content-management system with a flexible architecture and support from a wide community of users and developers. We will likely make use of code from Annotum (annotum.org, http://annotum.org/), the WordPress-based journal-publishing system used to publish PLoS Currents. Another useful reference system is CommentPress (futureofthebook.org/commentpress, http://www.futureofthebook.org/commentpress/), which is also WordPress-based and allows fine-grained commenting on documents. Stack Exchange (stackexchange.com, http://stackexchange.com) will serve as a model for voting and reputation, but their source code is not currently available. In order to ensure performance while avoiding additional development burden, we will employ a content-distribution network such as Amazon CloudFront (aws.amazon.com/cloudfront, http://aws.amazon.com/cloudfront/), which is supported by several WordPress plugins.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2012,
+    "name": "Vicky Wolf",
+    "title": "Revitalizing Forgotten Data: Bringing 40 years of Glacial Photography into the Digital Age",
+    "desc": "The GeoData Center (GDC), operated by the Alaska Satellite Facility for the Geophysical Institute of the University of Alaska Fairbanks, is the home for a Glacial Photography collection that spans the 1950s to the early 2000s. The collection consists of photos and negatives taken from planes and the ground of glaciers in Alaska. In early 2012, a researcher was awarded a grant to digitize a portion of the collection for his own use. He will give copies of the digitized images to the GDC for distribution via the web. The GDC is responsible for developing the infrastructure needed to distribute the data. The funding from the ESIP Federation will be utilized to generate metadata for both the collection and the individual photos. The metadata will be generated from field notes and flight logs that exist for all the photos. The metadata will be published on the web in formats compatible with OpenSearch and RSS feeds to facilitate data discovery on a broad scale. The primary goal of the project is to increase the visibility of the collection so that the imagery can be found and utilized in research. A secondary goal is to develop a structure that can be used for enhancing the discovery of other collections held by the GDC.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2012,
+    "name": "Sarah Ramdeen",
+    "title": "Assessing Skills, Access and Trust of Data Use and Reuse within the ESIP community",
+    "desc": "The purpose of this study is to reflect on the current state of skills, access, and trust relating to data use and reuse within the ESIP member community. This study will specifically focus on the data lifecycle. The data lifecycle includes curation, access to data by the user community and the skills needed to perform these services or tasks. It is important to understand what skills are needed in searching for scientific data sets. This includes research, technological and cognitive skills. Collections must be discoverable and accessible. In order to make use of a collection, users must be able to successfully search and find scientific data sets within these repositories and the resulting data must be in a format which is useable for their purposes. Finally, when accessing scientific data repositories, individuals must evaluate the trustworthiness of the collections and determine the quality of data it houses before deciding to use repository resources. In order to learn more about these areas we will send a questionnaire to the ESIP community asking participants to recall their personal experiences with data use specifically the skills and training they felt they needed to be successful searchers, how they accessed collections, what barriers they encountered along the way, and finally, how they determined trustworthiness and quality of the data they discovered and ultimately used.",
+    "co_pi": [
+      "Angela Murillo"
+    ],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2012,
+    "name": "Reid Boehm",
+    "title": "Interactive Federation Network Analysis Tool",
+    "desc": "The Interactive Federation Network Analysis Tool aims to visualize and analyze the ESIP Federation as a dynamic ecosystem of interconnected components and collaborations. The tool will represent relationships as nodes and edges, with layered content to explore changes in the network over time. Visual elements such as color, line strength, and text size will highlight clusters, systems, and the strength of connections. The tool will focus on four major dimensions of ESIP's ecosystem: functional (data centers, research, applications, education), cross-sector (public, academic, commercial, nonprofit), cross-domain (land, oceans, atmosphere, life, and their interconnections), and cross-agency (e.g., NASA, NOAA, EPA, NSF). These dimensions will guide the design and organization of the tool, linking current web presences as needed. The network roots include projects (the most diverse element) and individuals (the most granular element). The software will enable the creation and simulation of network maps over time, with outputs that can be integrated into the ESIP Commons via Drupal as a display module, providing links to node records. This tool will enhance understanding of ESIP's adaptability and self-organizing nature as a collaborative ecosystem.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2013,
+    "name": "Annette Schloss",
+    "title": "Demonstration of a mobile application for estimating forest canopy closure using digital photographs",
+    "desc": "This project will demonstrate using mobile devices as scientific instruments that can be used by students, professionals, and citizens for collecting and analyzing high-quality data. The project will create a demonstration application for a tablet (either Apple or Android OS) that will allow the user to take a digital photograph in the UP direction and analyze the photograph to estimate forest canopy closure. The project will engage undergraduate student programmers in developing and testing the app under the direction of the project leaders. The analysis algorithm will be based on pixel color and brightness to separate branches and foliage from sky cover. The app will create an initial estimate, and then allow the user to make modifications manually. This concept is similar to the process that has been used in the DEW Analyzing Digital Images (ADI) software package, but will allow the user to take and analyze pictures on-site. The capability to do so will enhance learning in-the-field, and if the algorithm proves commercially viable, will greatly streamline the process for foresters.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2013,
+    "name": "Denise Hills",
+    "title": "Making the Case for Data Stewardship Use Cases: A Community Building and Engagement Exercise",
+    "desc": "The project aims to expand the ESIP Data Stewardship community by engaging individuals from all stages of the data life cycle, fostering interdisciplinary connections, and promoting ESIP's mission to a more diverse audience. The plan includes submitting a proposal for a Town Hall meeting at the Fall 2013 AGU meeting and two abstracts to an Informatics session\u2014one addressing the broader purpose of Data Stewardship Use Cases and the other focusing on a specific Use Case. Presentations will either promote the Town Hall or serve as standalone efforts to achieve the outlined goals. Expected outcomes include broader community involvement in the ESIP Data Stewardship Committee, increased knowledge of Data Stewardship standards and practices, and a potential publication summarizing the results.",
+    "co_pi": [
+      "Sarah Ramdeen"
+    ],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2013,
+    "name": "Jin Guang Zheng",
+    "title": "Semantic Similarity Computation and Concept Mapping in Earth and Environmental Science",
+    "desc": "Ontologies have been widely adopted and used by Earth and Environmental Science community to capture and represent knowledge in the domain. One of the major problem that prevent us to combine and reuse these ontologies to solve more interesting problems is semantic heterogeneity problem, for example, same vocabularies from different ontologies may refer to different concept; or different terms from different ontologies may have same meaning. In this proposed work, we will address the problem by (1) developing a semantic similarity computation model to compute similarity among the concepts in Earth and Environmental Science; (2) based on the computation model, we will implement concept mapping tool that creates alignment for concepts that are semantically the same; (3) we will demonstrate the effectiveness of the tool using GCMD and CLEAN vocabularies and other earth science related ontologies.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2013,
+    "name": "Chunming Peng",
+    "title": "Agricultural Drought Information Cluster",
+    "desc": "The Agricultural Drought Information Cluster aims to address the challenges faced by researchers, farmers, and decision-makers in accessing, analyzing, and utilizing drought-related data. Traditional methods for mapping and analyzing agricultural drought are time-consuming and fragmented, with data stored across multiple servers and agencies using inconsistent methodologies. This project proposes a one-stop, self-service platform that integrates data, technology, and drought information to streamline the process of drought monitoring and forecasting. The system will allow users to define custom drought indicators in three steps: selecting dimensions (e.g., vegetation conditions, soil moisture), choosing and weighting specific indicators (e.g., Vegetation Condition Index), and validating the results through correlation or contrast mapping. This platform will enable users to build tailored drought indicators, generate drought severity maps, and validate their findings efficiently. By providing a comprehensive and interoperable system, the Agricultural Drought Information Cluster will facilitate data sharing, enhance understanding of agricultural drought, and empower users to make informed decisions. This initiative aims to save time, improve accessibility, and foster collaboration among researchers, agencies, and the general public.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2013,
+    "name": "Emily Northrup",
+    "title": "Aquaponics For Triage and Emergency Response (AFTER)",
+    "desc": "The overall intentions of my project are for American emergency response agencies to drop aquaponics systems in regions after a disaster event has occurred and teach those in the areas to use the systems. Through the use of technologies such as Esri ArcMap, Worldview, iRODS, ect. I plan to use geospatial data from a variety of DAACs to pre-plan for especially vulnerable regions based on weather, climate, and population how to optimize the aquaponics system.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2014,
+    "name": "Bruce Caron",
+    "title": "Working Group Syndicated Content Tool",
+    "desc": "Similarly focused working groups across organizations such as ESIP, Research Data Alliance (RDA) and EarthCube (EC) could share content from their respective online website workspaces through a syndicated RSS feed for display on the other related working group websites. Coincidentally, all of these sites run on the Drupal platform, for which, the EOSDIS group developed code, or Drupal module, that syndicates content across multiple Drupal sites - the Earth Data Federated Content Tool (ED-FCT).",
+    "co_pi": [
+      "Adam Shepherd"
+    ],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2014,
+    "name": "Kaijian Xu",
+    "title": "Rich Semantic Annotation for Science Media Repositories",
+    "desc": "This project provides a new framework for a highly expressive, descriptive annotation of multimedia content like images, video, etc. in scientific repositories, using a language structure that is inspired by word classes (e.g. nouns, verbs, etc.) in everyday (\u201cnatural\u201d) languages. Such a framework would be used to capture and represent rich, semantic annotations about what objects and features are present within the scene, the interactions between them, as well as further describe such objects and interactions.",
+    "co_pi": [],
+    "image": "img/2014/Kaijian-Xu-2014.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2014,
+    "name": "Kelly Monteleone",
+    "title": "Converting mb-system Files in Windows and Apple",
+    "desc": "Mb-system is a unix based program for multibeam sonar (Bathymetry) data. Mb-system was supported by NOAA from 2002 to 2004. It does not work in windows and is complicated to install and use. Goal: Create a one click installer that will install Cygwin, mb-system, and supporting files on a windows system. And pull out a python wrapper for Apple and non-cygwin installation. This will provide a GUI to export the data in xyz, ascii, and GeoTIFF.",
+    "co_pi": [
+      "John Relph",
+      "Jason Ninneman",
+      "Rob Carver"
+    ],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2014,
+    "name": "Kevin Dobbs",
+    "title": "Leveraging the Power of Google Earth Engine to Derive High Quality Water Reference Data for Flood Disaster Decision Support",
+    "desc": "At the 2014 Summer ESIP meeting a poster was created and presented based on the idea that American emergency response agencies can utilize aquaponics systems after a disaster event has occurred in any region. It is imperative that the aquaponics systems be suited for the region based on climate and population and that the people of the area are taught how to use and maintain the systems. Through the use of technologies such as Esri ArcMap, Worldview, iRODS, ect. geospatial data from a variety of DAACs will be used to pre-plan for a case study on a particular region.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2014,
+    "name": "Kyle Nelson",
+    "title": "Enhancing and Educating with the WxSat Mobile App",
+    "desc": "At the 2014 Summer ESIP meeting a poster was designed and presented to promote the idea of building upon the successful WxSat app (iOS and Android) that allows users to view global visible, infrared and water vapor satellite data on mobile devices. Current products are viewable in black and white but color enhanced imagery can allow for ease of identification of key weather features. Satellite imagery is becoming more prevalent with ease of access online and is being displayed increasingly often on local and national weather segments. To enhance the understanding of the all who view satellite data, an educational tutorial will be created with case studies for all three imagery types. Meteorological phenomena will be identified through annotated still and animated images to provide a conceptual model for the user to apply when viewing satellite imagery in real time via the WxSat app or another source.",
+    "co_pi": [
+      "Margaret Mooney"
+    ],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2014,
+    "name": "Lee Hyokyung",
+    "title": "HDFCRAFT - Making Earth Data Fun!",
+    "desc": "At the 2014 Summer ESIP meeting a poster was created and presented based on the idea that NASA HDF/HDF-EOS data products can be used for Minecraft game. Minecraft stores its world maps in Anvil file format that has similar characteristics that HDF has. By converting NASA HDF data into Minecraft map, kids and educators can play with NASA Earth Data easily in 3D.",
+    "co_pi": [],
+    "image": "img/2014/Lee-Hyokyung-2014.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2014,
+    "name": "Matt Ferrito",
+    "title": "ToolMatch Extension",
+    "desc": "The ToolMatch project was based upon the idea of semantic matching of data collections and tools that could be used with those data collections. Specifically, two use cases were developed for the service: 1. Search for the tools that can be used with a given data collection, and then find out what the tool can do with the data collection. 2. Search for collections that can be used with their tool, and capture information about what the data user would like to be able to do with their data. The poster created and presented at the 2014 ESIP Summer Meeting was based upon the idea of an extension of the second use case. This extension involves the semantic matching of data collection content with applicable tools. This matching is stricter than than matching based upon information about the data collection, but the use case itself is broader in scope. Ex: Given rainfall or topology measurements, determine which tools within a hyrdologoical model can be used with the data content. This will allow the appropriate tools within the model to be used with the matching data collection content.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2014,
+    "name": "Linyun Fu",
+    "title": "Towards Automatic Provenance Capturing for Research Publications",
+    "desc": "Provenance information is critical for research publication readers to correctly interpret report content and enables them to evaluate the report by digging into the software in use, source data and responsible agents. However, creating proper provenance information for research publications is very hard. We propose a project to develop a platform that can automatically capture provenance information in the process of preparing publications. The idea is that authors just need to do their regular authoring jobs on the platform without caring about provenance, which is captured by the library functions of the platform in an non-distracting manner.",
+    "co_pi": [
+      "Massimo Di Stephano"
+    ],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2015,
+    "name": "Sean Barberie",
+    "title": "HumanHAB",
+    "desc": "HumanHAB is an exploratory project to explore what data sets and statistical indicators may better represent the nuanced impressions that people have about these complicated human habitats. Some potential indicators that will be explored are: walkability and public transit, local-businesses versus chains, and correlation exceptions... This project is highly exploratory, and the methods and relevant indicators will change and develop with the project.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2015,
+    "name": "Brandon Whitehead",
+    "title": "Semantic models for the ESIP community",
+    "desc": "Semantic matching of orthogonal facets of the ESIP community could provide some semblance of an enhanced search (and perhaps visualization component) along with an understanding of where the community has been (conceptually) versus where it may be going. More broadly, the proposal aims to capture the emergent structures, patterns, or clusters of information prevalent in within the community.",
+    "co_pi": [],
+    "image": "",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2015,
+    "name": "Sarah Ramdeen",
+    "title": "Stewardship of physical data, Use case and community engagement",
+    "desc": "ESIP supports a wide variety of work related to earth science information. One prominent group within ESIP is the Data Stewardship Committee... Given the overwhelming activities the Data Stewardship Committee is working on, there is a need to explore an ESIP cluster to focus on this narrow subset and to act as a leader among this community. The project will develop a use case describing the existing issues related to stewardship of physical data and work on building connections between these diverse communities.",
+    "co_pi": [],
+    "image": "img/2015/Sarah-Ramdeen-2015.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2015,
+    "name": "Sophie Hou",
+    "title": "Roadmap for the Next Generation Data Management Training Modules",
+    "desc": "From 2011-2103, ESIP partnered with NOAA and the Data Conservancy to produce the current version of the 'ESIP Data Management for Scientists Short Course'. To understand the current needs for data management training and to build effective training resources, the Committee would like to assess the current landscape Data Management Training (DMT) resources. This project will contribute to the Committee's roadmap as well as determining potential collaborators for the ESIP Short Course.",
+    "co_pi": [],
+    "image": "img/2015/Sophie-Hou-2015.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2015,
+    "name": "Soren Scott",
+    "title": "A Github Badging System",
+    "desc": "Github badges provide a quick and visual way to indicate build status, code coverage or participation in crowdfunding opportunities. There is a desire in the ESIP community to acknowledge participation in ESIP collaborations without requiring (or creating the expectation) that a project repository be hosted under the ESIP Federation Github organization... This project proposes a system of badges that can be included in a project's README documentation as a simple branding activity.",
+    "co_pi": [],
+    "image": "img/2015/Soren-Scott-2015.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2015,
+    "name": "Wade Bishop",
+    "title": "Harvesting Information Partnerships for Geospatial data Education and Outreach (HIPGEO)",
+    "desc": "The HIPGEO project will create a potential partner directory to grow ESIP institutional membership. This list combined with existing members also provides a useful sampling frame for job analyses to inform the earth data science curriculum.",
+    "co_pi": [
+      "Jeni Trimmer",
+      "Lara Marler"
+    ],
+    "image": "img/2015/Wade-Bishop-2015.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2015,
+    "name": "Shelley Olds",
+    "title": "Interactive Interface To Explore Natural Hazards And Vulnerability In Coastal Communities",
+    "desc": "Along the coast of the Pacific Northwest a massive earthquake could occur at anytime. Residents and visitors often aren\u2019t familiar with how to prepare or respond. In this project, an interactive map will provide an interface to explore hazards and vulnerability data available for the coastal Pacific Northwest.",
+    "co_pi": [],
+    "image": "img/2015/Shelley-Olds-2015.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2016,
+    "name": "Sean Gordon",
+    "title": "Making Metadata Easy with Geonetwork",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2016/Sean-Gordon-2016.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2016,
+    "name": "Kate Young",
+    "title": "Pimp My Drone",
+    "desc": "",
+    "co_pi": [
+      "Janine Aquino"
+    ],
+    "image": "img/2016/Kate-Young-2016.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2016,
+    "name": "Denise Hills",
+    "title": "Questionable Community Continuity",
+    "desc": "",
+    "co_pi": [
+      "Kim Hines",
+      "Steve Diggs",
+      "Ismael Simley"
+    ],
+    "image": "img/2016/Denise-Hills-2016.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2016,
+    "name": "Sam Silva",
+    "title": "Understanding Vegetation Through Social Media",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2016/Sam-Silva-2016.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2016,
+    "name": "Ed Flathers",
+    "title": "Meanwhile, in dataland",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2016/Ed-Flathers-2016.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2016,
+    "name": "Tammy Glover",
+    "title": "Can we do... Sustainable?",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2016/Tammy-Glover-2016.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2016,
+    "name": "Kalo Haslem",
+    "title": "The use of STEM and Drones in the Middle School Classroom to Assist Student Learning",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2016/Kalo-Haslem-2016.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2017,
+    "name": "Ruth Duerr",
+    "title": "A 20-year Surprise",
+    "desc": "",
+    "co_pi": [
+      "Reid Boehm"
+    ],
+    "image": "img/2017/Ruth-Duerr-2017.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2017,
+    "name": "Beth Huffer",
+    "title": "Earth Science Idol",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2017/Beth-Huffer-2017.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2017,
+    "name": "Ryan Bowe",
+    "title": "Photogrammetric Metadata",
+    "desc": "",
+    "co_pi": [
+      "Gary Motz"
+    ],
+    "image": "img/2017/Ryan-Bowe-2017.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2017,
+    "name": "Matt Bartos",
+    "title": "Automated Sensor Firmware",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2017/Matt-Bartos-2017.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2017,
+    "name": "Lori Baker",
+    "title": "Data, Drones & Great American Eclipse",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2017/Lori-Baker-2017.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2017,
+    "name": "Deborah Gaff",
+    "title": "Collecting Data that Matters - Physical Computing",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2017/Deborah-Gaff-2017.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2018,
+    "name": "James Gallagher",
+    "title": "Harvesting User Knowledge",
+    "desc": "",
+    "co_pi": [
+      "Bob Simmons"
+    ],
+    "image": "img/2018/James-Gallagher-2018.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2018,
+    "name": "Keith Maull",
+    "title": "A Searchable Repository of Notebook Metadata",
+    "desc": "",
+    "co_pi": [
+      "Ben Galewsky",
+      "Sean Gordon"
+    ],
+    "image": "img/2018/Keith-Maull-2018.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2018,
+    "name": "Shayna Skolnik",
+    "title": "Are you a climate warrior?",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2018/Shayna-Skolnik-2018.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2018,
+    "name": "Connor Scully-Allison",
+    "title": "Automatic Database & Microservice Generation from Structured Ontologies",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2018/Conner-ScullyAllison-2018.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2018,
+    "name": "Ranalda Tsosie",
+    "title": "How's your H2O",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2018/Ranalda-Tsosie-2018.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2018,
+    "name": "Patrick Chandler",
+    "title": "Now Hear This: An Audible Data Experience",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2018/Patrick-Chandler-2018.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2019,
+    "name": "Yuhan Rao",
+    "title": "Tutorials: Introducing Machine Learning",
+    "desc": "",
+    "co_pi": [
+      "Anne Wilson",
+      "Nancy Hoebelheinrich"
+    ],
+    "image": "img/2019/Yuhan-Rao-2019.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2019,
+    "name": "Ted Habermann",
+    "title": "Identifying ESIP Connections",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2019/Ted-Habermann-2019.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2019,
+    "name": "Chao Ma",
+    "title": "Deep Time Climate Data",
+    "desc": "",
+    "co_pi": [
+      "Marshall Ma"
+    ],
+    "image": "img/2019/Chao-Ma-2019.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2019,
+    "name": "Ellie Davis",
+    "title": "Bill-ding Bridges: Data informing policy",
+    "desc": "",
+    "co_pi": [
+      "Ben Roberts-Pierel"
+    ],
+    "image": "img/2019/Ellie-Davis-2019.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2019,
+    "name": "Rose Borden",
+    "title": "Developing a Series of Flexible Modules for Community College Earth Science Students",
+    "desc": "",
+    "co_pi": [
+      "Katy Rico"
+    ],
+    "image": "img/2019/Rose-Borden-2019.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2019,
+    "name": "Marguerite Walker",
+    "title": "Drone Data for Schools",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2019/Marguerite-Walker-2019.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2020,
+    "name": "Amber Budden",
+    "title": "Why is this so hard?",
+    "desc": "",
+    "co_pi": [
+      "Daniella Lowenberg",
+      "Shelley Stall",
+      "Denise Hills",
+      "Erin McLean",
+      "Rob Crystal Ornelas",
+      "Kristin Vanderbilt"
+    ],
+    "image": "img/2020/Amber-Budden-2020.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2020,
+    "name": "Robert Rovetto",
+    "title": "Semantic Orbital Sweep",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2020/Robert-Rovetto-2020.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2020,
+    "name": "Sarah Ramdeen",
+    "title": "Deep Time Climate Data",
+    "desc": "",
+    "co_pi": [],
+    "image": "",
+    "docs": [
+      "artifacts/2020/Sarah-Ramdeen-2020.pdf"
+    ],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2020,
+    "name": "Alexis Garretson",
+    "title": "Columba",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2020/Alexis-Garretson-2020.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2020,
+    "name": "Jake Hinz",
+    "title": "SOS Explorer",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2020/Jake-Hinz-2020.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2020,
+    "name": "Steven Martell",
+    "title": "Drone Data for Schools",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2020/Steven-Martell-2020.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2021,
+    "name": "Ryan McGranaghan",
+    "title": "Space Weather? In ESIP? Why?",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2021/Ryan-McGranaghan-2021.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2021,
+    "name": "Thilanka Munasinghe",
+    "title": "Identifying Vulnerable Facilities to to the Extreme Effects of Precipitation",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2021/Thilanka-Munasinghe-2021.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2021,
+    "name": "Megan Raisle",
+    "title": "Can we combine databases to get better info?",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2021/Megan-Raisle-2021.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2021,
+    "name": "Eric Walters",
+    "title": "Student-led conference for high school students and educators worldwide.",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2021/Eric-Walters-2021.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2021,
+    "name": "Jessica Elliott",
+    "title": "Multiple Point-of-Interest Walk",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2021/Jessica-Elliott-2021.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2021,
+    "name": "Rebecca Walters",
+    "title": "Citizen Science School Garden and Community Arboretum",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2021/Becky-Walters-2021.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2021,
+    "name": "Mimi Walker",
+    "title": "Wildfires",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2021/Mimi-Walker-2021.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2022,
+    "name": "Chris Simoniello",
+    "title": "Data Management in Science Explained",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2022/Chris-Simoniello-2022.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2022,
+    "name": "Brian Callahan",
+    "title": "Next-Gen Tools for Democratizing Data Exploration with NASA Data Pathfinder",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2022/Brian-Callahan-2022.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2022,
+    "name": "Karen Moe",
+    "title": "Operational GIS Dashboard for EJ Communities",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2022/Karen-Moe-2022.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2022,
+    "name": "Qian Huang",
+    "title": "Assessing Wildfire Impacts of COVID-19 Using Remote Sensing/Airborne Data",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2022/Qian-Huang-2022.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2022,
+    "name": "Karie Suhajda",
+    "title": "All Knowledge is Connected to all other Knowledge...",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2022/Karie-Suhajda-2022.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2022,
+    "name": "Amruta Kale",
+    "title": "Implementing Common Workflow Language: an open-source standard for describing workflows",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2022/Amruta-Kale-2022.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2022,
+    "name": "Samantha Child",
+    "title": "Outdoor Learning Lab",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2022/Samantha-Child-2022.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2023,
+    "name": "Elizabeth Adams",
+    "title": "Engaging state and regional orgs to implement leading data practices",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2023/Elizabeth-Adams-2023.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2023,
+    "name": "Eli Holmes",
+    "title": "A Jupyter Hub for Indian Marine Biologists and Oceanographers",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2023/Eli-Holmes-2023.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2023,
+    "name": "Wade Bishop",
+    "title": "HOPE: History of the People of ESIP",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2023/Wade-Bishop-2023.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2023,
+    "name": "Sruti Modekurty",
+    "title": "ESIP.local",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2023/Sruti-Modekurty-2023.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2023,
+    "name": "Lisa Kihn",
+    "title": "Smoke and Wildfire Data Scavengers!",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2023/Lisa-Kihn-2023.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2023,
+    "name": "Vicky Gorman",
+    "title": "Community Science Education Program",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2023/Vicky-Gorman-2023.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2024,
+    "name": "Pam Freeman",
+    "title": "Teaching Differently Abled Learners To be Citizen Scientists",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2024/Pam-Freeman-2024.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2024,
+    "name": "Timothy Freeman",
+    "title": "A Day in the Life of Part of the Lake Erie Watershed Near Buffalo, New York \u2013 October 3, 2024",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2024/Timothy-Freeman-2024.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2024,
+    "name": "Debasish Mishra",
+    "title": "FUSION (Framework for Unifying Systematic Integration of Observational Networks)",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2024/Debasish-Mishra-2024.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2024,
+    "name": "Amy Quarkume",
+    "title": "Communities Yielding Power by Harnessing Emergent Resources (CYPHER)",
+    "desc": "",
+    "co_pi": [
+      "Agbeli Ameko",
+      "Steve Diggs",
+      "Keith Maull",
+      "Curtis Walker"
+    ],
+    "image": "img/2024/Amy-Quarkume-2024.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2024,
+    "name": "Indigenous Data Team",
+    "title": "Enhancing Indigenous Data Management Capacity",
+    "desc": "",
+    "co_pi": [],
+    "image": "img/2024/Indigenous-Data-Team-2024.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  },
+  {
+    "year": 2024,
+    "name": "Chandra Earl",
+    "title": "Expand and Sustain The Data Help Desk",
+    "desc": "",
+    "co_pi": [
+      "Amber Budden",
+      "Steve Diggs"
+    ],
+    "image": "img/2024/Chandra-Earl-2024.png",
+    "docs": [],
+    "funding_amount": null,
+    "participant_type": ""
+  }
+]
